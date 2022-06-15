@@ -3,5 +3,7 @@ public class Hello {
         System.out.println("Hello, GitHub!");
 
         System.out.println("new line! testing pushing to github.");
+
+        System.out.println("new line! testing pushing.");
     }
 }
