@@ -5,5 +5,8 @@ public class Hello {
         System.out.println("new line! testing pushing to github.");
 
         System.out.println("new line! testing pushing.");
+
+        Person person = new Person();
+
     }
 }
